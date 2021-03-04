@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 Desenvolvedor, Cursando Bacharelado em Sistemas de informação 7º Semestre.
 
-2(dois) anos trabalhando com a linguagem C#. 
+2 anos trabalhando com a linguagem C#. 
 
-Experiência com programação: C#, SQL Server, JS, Bootstrap.
+Experiência com programação: C#, Python, SQL Server, JS.
 
 
 
