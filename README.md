@@ -32,7 +32,7 @@ Analise geral do problema, no qual busco soluções para recomendar a equipe foc
 
 - 🔭 Trabalhando atualmente com API's Rest e RestFul, Automação de processos com C# e Python via Selenium e automação visual.
 - 🌱 Atualmente estudando Dart with Flutter, Node.
-- :iphone: (11)96321-7180
+- :iphone: (11) 96321-7180
 - 💬 mguinhoguido@gmail.com
 - :briefcase: linkedin.com/in/guilherme-henrique-42577b123
 
