@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Desenvolvedor, Cursando Bacharelado em Sistemas de informação 7º Semestre.
 
-2 anos trabalhando com a linguagem C#. 
+3 anos trabalhando com a linguagem C#. 
 
 Experiência com programação: C#, Python, SQL Server, JS.
 
@@ -33,7 +33,7 @@ Analise geral do problema, no qual busco soluções para recomendar a equipe foc
 - 🔭 Trabalhando atualmente com API's Rest e RestFul, Automação de processos com C# e Python via Selenium e automação visual.
 - 🌱 Atualmente estudando Dart with Flutter, Node.
 - :iphone: (11) 96321-7180
-- 💬 guinhodeveloper@gmail.com
+- 💬 guinho0010@hotmail.com
 - :briefcase: linkedin.com/in/guilherme-henrique-42577b123
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-42577b123)](https://www.linkedin.com/in/guilherme-henrique-42577b123) [![Linkedin Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/11963217180?text=sua%20mensagem)](https://wa.me/5511963217180?text=sua%20mensagem)
