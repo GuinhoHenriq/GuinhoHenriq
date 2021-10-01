@@ -31,7 +31,7 @@ Analise geral do problema, no qual busco soluções para recomendar a equipe foc
 
 
 - 🔭 Trabalhando atualmente com API's Rest e RestFul, Automação de processos com C# e Python via Selenium e automação visual, ferramentas Uipath, Automation Anywhere e Automate.
-- 🌱 Atualmente estudando Dart with Flutter, Node.
+- 🌱 Atualmente estudando .NET Core mais a fundo.
 - :iphone: (11) 96321-7180
 - 💬 guinho0010@hotmail.com
 - :briefcase: linkedin.com/in/guilherme-henrique-42577b123
