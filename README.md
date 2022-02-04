@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 ### C# | .NET | APS.NET | ASP.NET CORE
 
-Desenvolvedor, Cursando Bacharelado em Sistemas de informação 7º Semestre.
+Desenvolvedor, Formado em Sistemas de informação
 
-3 anos trabalhando com a linguagem C#. 
+4 anos trabalhando com a linguagem C#. 
 
 Experiência com programação: C#, Python, SQL Server, JS.
 
@@ -30,8 +30,8 @@ Experiência com programação: C#, Python, SQL Server, JS.
 Analise geral do problema, no qual busco soluções para recomendar a equipe focando na melhoria e otimização de tarefas, reduzindo o custo e o tempo exercido para cumprimento da mesma. Facil adptação de acordo com a necessidade.
 
 
-- 🔭 Trabalhando atualmente com API's Rest e RestFul, Automação de processos com C# e Python via Selenium e automação visual, ferramentas Uipath, Automation Anywhere e Automate.
-- 🌱 Atualmente estudando .NET Core mais a fundo.
+- 🔭 Trabalhando atualmente com API's Rest e RestFul, Desenvolvimento de banco digital - Funcionalidades como pix, Transferencia P2P, Extratos e mais
+- 🌱 Atualmente estudando .NET Core mais a fundo e arquitetura de software
 - :iphone: (11) 96321-7180
 - 💬 guinho0010@hotmail.com
 - :briefcase: linkedin.com/in/guilherme-henrique-42577b123
