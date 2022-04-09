@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GuinhoHenriq&show_icons=true&theme=radical)
 
-### C# | .NET | APS.NET | ASP.NET CORE
+### C# | .NET | .NET CORE | APS.NET | ASP.NET CORE
 
 Desenvolvedor, Formado em Sistemas de informação
 
