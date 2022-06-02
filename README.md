@@ -33,7 +33,7 @@ Analise geral do problema, no qual busco soluções para recomendar a equipe foc
 - 🔭 Trabalhando atualmente com API's Rest e RestFul, Desenvolvimento de banco digital - Funcionalidades como pix, Transferencia P2P, Extratos e mais
 - 🌱 Atualmente estudando .NET Core mais a fundo e arquitetura de software
 - :iphone: (11) 96321-7180
-- 💬 guinho0010@hotmail.com
+- 💬 guilherme.silva.tech@gmail.com
 - :briefcase: linkedin.com/in/guilherme-silva-42577b123/
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-henrique-42577b123)](https://www.linkedin.com/in/guilherme-silva-42577b123/) [![Linkedin Badge](https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white&link=https://wa.me/11963217180?text=sua%20mensagem)](https://wa.me/5511963217180?text=sua%20mensagem)
