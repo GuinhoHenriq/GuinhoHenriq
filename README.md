@@ -26,11 +26,10 @@ Desenvolvedor, Formado em Sistemas de informação
 Experiência com programação: C#, Python, SQL Server, JS.
 
 
-
 Analise geral do problema, no qual busco soluções para recomendar a equipe focando na melhoria e otimização de tarefas, reduzindo o custo e o tempo exercido para cumprimento da mesma. Facil adptação de acordo com a necessidade.
 
 
-- 🔭 Trabalhando atualmente com API's Rest e RestFul, Desenvolvimento de banco digital - Funcionalidades como pix, Transferencia P2P, Extratos e mais
+- 🔭 Trabalhando atualmente com API's Rest e RestFul, Desenvolvimento de banco digital e novas funcionalidades em aplicação de fretados.
 - 🌱 Atualmente estudando .NET Core mais a fundo e arquitetura de software
 - :iphone: (11) 96321-7180
 - 💬 guilherme.silva.tech@gmail.com
