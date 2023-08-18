@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 # GuinhoHenriq
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GuinhoHenriq&show_icons=true&theme=radical)
+<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GuinhoHenriq&show_icons=true&theme=radical)-->
 
 ### C# | .NET 
 
