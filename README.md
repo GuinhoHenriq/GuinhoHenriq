@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 Desenvolvedor, Formado em Sistemas de informação
 
-4 anos trabalhando com a linguagem C#. 
+6 anos trabalhando com a linguagem C#. 
 
 Experiência com programação: C#, Python, SQL Server, JS.
 
@@ -29,8 +29,9 @@ Experiência com programação: C#, Python, SQL Server, JS.
 Analise geral do problema, no qual busco soluções para recomendar a equipe focando na melhoria e otimização de tarefas, reduzindo o custo e o tempo exercido para cumprimento da mesma. Facil adptação de acordo com a necessidade.
 
 
-- 🔭 Trabalhando atualmente com API's Rest e RestFul, Desenvolvimento de banco digital e novas funcionalidades em aplicação de fretados.
-- 🌱 Atualmente estudando .NET Core mais a fundo e arquitetura de software
+- 🔭 Trabalhando atualmente com API's Rest e RestFul, Desenvolvimento de Workers em sistema de fluxo de backoffice.
+- 🌱 Atualmente estudando .NET e testes mais a fundo.
+- 🎓 Cursando MBA em Arquitetura de soluções.
 - :iphone: (11) 96321-7180
 - 💬 guilherme.silva.tech@gmail.com
 - :briefcase: linkedin.com/in/guilherme-silva-42577b123/
